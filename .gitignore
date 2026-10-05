@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+.streamlit/
+.vscode/
+
+data/scraped_reviews.csv
+
+output/
+debug/
